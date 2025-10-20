@@ -1,5 +1,6 @@
-## Hi there 👋 My name is Pratheek Sunilkumar and this is my Github!
+## Hi there 👋 My name is Pratheek Sunilkumar, and this is my Github!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratheek28)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pratheek28/pratheek28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
